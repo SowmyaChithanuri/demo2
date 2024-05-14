@@ -24,6 +24,8 @@ function Homepage() {
                </div>
                
                </div>
+               <h1>sowmya</h1>
+               <h2>sowmya</h2>
                 <SearchBar/>
                 <div className="centered-container" >
                     <p className="centered-paragraph">Explor thousands of beautiful free templates. With Canva's drag and drop feature, you can customize your design for any occasion in just a few clicks.Explore thousands of beautiful free templates. With Canva's drag for any occasion in just a few clicks.</p>
